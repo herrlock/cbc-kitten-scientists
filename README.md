@@ -8,7 +8,7 @@ Kitten Scientists (KS) is a simple automation script for the complex [Kittens Ga
 
 Create the following JavaScript bookmarklet (create a new bookmark and past this as the URL):
 
-    javascript:(function(){var d=document,s=d.createElement('script');s.src='https://rawgit.com/cameroncondry/cbc-kitten-scientists/master/kitten-scientists.user.js';d.body.appendChild(s);})();
+    javascript:(function(){var d=document,s=d.createElement('script');s.src='https://rawgit.com/herrlock/cbc-kitten-scientists/master/kitten-scientists.user.js';d.body.appendChild(s);})();
 
 ### Alternative Installation
 
@@ -17,7 +17,7 @@ You can also permanently install Kitten Scientists with a userscript manager.
 - On **Firefox**, you'd want to use [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
 - On **Chrome** and **Opera**, you'd want to use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 
-Now simply [open the script](https://raw.githubusercontent.com/cameroncondry/cbc-kitten-scientists/master/kitten-scientists.user.js) and you should be prompted to install it. 
+Now simply [open the script](https://raw.githubusercontent.com/herrlock/cbc-kitten-scientists/master/kitten-scientists.user.js) and you should be prompted to install it. 
 
 ## Functionality
 
