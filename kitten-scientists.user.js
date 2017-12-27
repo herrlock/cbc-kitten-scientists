@@ -14,7 +14,9 @@
 // ==========================================
 
 var version = 'Kitten Scientists version 1.3.2';
+/*
 var address = '19ZBVyaXQhikcuUszY2MVRb1MGL2YqicDX';
+*/
 
 // Game will be referenced in loadTest function
 var game = null;
@@ -1873,6 +1875,7 @@ var run = function() {
 
     $('#clearLog').append(activityBox);
 
+	/*
     // Donation Button
     // ===============
 
@@ -1894,6 +1897,7 @@ var run = function() {
     donate.css('padding', '5px');
 
     optionsListElement.append(donate);
+	*/
 
     // add the options above the game log
     right.prepend(optionsElement.append(optionsListElement));
